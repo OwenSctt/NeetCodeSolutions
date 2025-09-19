@@ -22,38 +22,6 @@ NeetCodeSolutions/
 └── README.md            # This file
 ```
 
-## 🎯 Problem Categories
-
-### Arrays
-- Contains Duplicate
-- Valid Anagram
-- Two Sum
-- Group Anagrams
-- Top K Frequent Elements
-- Product of Array Except Self
-- Valid Sudoku
-- Encode and Decode Strings
-- Longest Consecutive Sequence
-
-### Strings
-- Valid Palindrome
-- Two Sum II
-- 3Sum
-- Container With Most Water
-- Trapping Rain Water
-
-### Linked Lists
-- Reverse Linked List
-- Linked List Cycle
-- Merge Two Sorted Lists
-- Remove Nth Node From End
-- Add Two Numbers
-- Linked List Cycle II
-- Find the Duplicate Number
-- LRU Cache
-- Merge k Sorted Lists
-- Remove Duplicates from Sorted List
-
 ## 📝 Solution Template
 
 ```javascript
@@ -86,28 +54,6 @@ class Solution {
 4. Follow the template above
 5. Test your solution
 6. Commit and push your changes
-
-## 📊 Progress Tracking
-
-- [ ] Arrays: 0/9 completed
-- [ ] Strings: 0/5 completed
-- [ ] Linked Lists: 0/10 completed
-- [ ] Trees: 0/0 completed
-- [ ] Graphs: 0/0 completed
-- [ ] Dynamic Programming: 0/0 completed
-- [ ] Backtracking: 0/0 completed
-- [ ] Sliding Window: 0/0 completed
-- [ ] Two Pointers: 0/0 completed
-- [ ] Binary Search: 0/0 completed
-- [ ] Heap: 0/0 completed
-- [ ] Stack: 0/0 completed
-- [ ] Queue: 0/0 completed
-
-## 🔗 Useful Links
-
-- [NeetCode.io](https://neetcode.io/)
-- [NeetCode YouTube](https://www.youtube.com/c/NeetCode)
-- [LeetCode](https://leetcode.com/)
 
 ## 📝 Notes
 
