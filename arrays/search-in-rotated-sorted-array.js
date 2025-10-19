@@ -50,11 +50,25 @@ class Solution {
     }
     
     /**
+     * Alternative approach using linear search (less efficient)
+     * Time Complexity: O(n) - linear search through array
+     * Space Complexity: O(1) - constant extra space
+     */
+    searchLinear(nums, target) {
+        for (let i = 0; i < nums.length; i++) {
+            if (nums[i] === target) {
+                return i;
+            }
+        }
+        return -1;
+    }
+    
+    /**
      * Alternative approach using indexOf (less efficient)
      * Time Complexity: O(n) - linear search
      * Space Complexity: O(1) - constant extra space
      */
-    searchLinear(nums, target) {
+    searchIndexOf(nums, target) {
         return nums.indexOf(target);
     }
 }
